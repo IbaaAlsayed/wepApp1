@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mainPage {
+    width:100%;
+    height: 600px;
+    background: url(images/mainImage.jpg);
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.overlay_header{
+    position :absolute;
+    color:white
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style-type: none;
+    display:inline-block;
+    margin: 5px 
+    
+}
+ul {
+}
